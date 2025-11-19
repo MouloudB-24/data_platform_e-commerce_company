@@ -1,0 +1,1 @@
+![ERD sales database](images/EDR_sales.png)
