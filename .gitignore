@@ -2,3 +2,5 @@ venv
 docs
 statement
 .env
+draf
+**/__pycache__/
